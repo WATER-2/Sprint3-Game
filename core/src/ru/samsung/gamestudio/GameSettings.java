@@ -16,7 +16,7 @@ public class GameSettings {
 
     public static float SHIP_FORCE_RATIO = 10;
     public static float TRASH_VELOCITY = 20;
-    public static long STARTING_TRASH_APPEARANCE_COOL_DOWN = 2000; // in [ms] - milliseconds
+    public static long STARTING_TRASH_APPEARANCE_COOL_DOWN = 1900; // in [ms] - milliseconds
     public static int BULLET_VELOCITY = 100; // in [m/s] - meter per second
     public static int SHOOTING_COOL_DOWN = 1200; // in [ms] - milliseconds
     public static final int MAX_LIVES = 3;
